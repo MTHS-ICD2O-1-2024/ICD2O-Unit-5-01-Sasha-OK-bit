@@ -6,7 +6,7 @@
 
 const randomNumber = Math.floor(Math.random() * 6) + 1
 
-function checkNumber () {
+function calculaterandomnumber () {
 
   const userNumber = parseInt(document.getElementById('user-number').value)
 
